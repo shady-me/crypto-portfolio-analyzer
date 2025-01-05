@@ -1,0 +1,5 @@
+ python3 database.py 
+ for initializing database
+
+ streamlit run app.py
+ to run the app
